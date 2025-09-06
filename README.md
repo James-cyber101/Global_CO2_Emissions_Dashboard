@@ -34,7 +34,6 @@ Global_CO2_Emissions_Dashboard/
 ├── README.md # Project documentation
 └── .gitignore # Files to ignore in Git
 
-
 ---
 
 ## 📊 Key Graphs / Visualizations
@@ -67,4 +66,3 @@ The project generates the following **5 main graphs**:
 ```bash
 git clone https://github.com/James-cyber101/Global_CO2_Emissions_Dashboard.git
 cd Global_CO2_Emissions_Dashboard
-
